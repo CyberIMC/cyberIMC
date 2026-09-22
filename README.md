@@ -1,40 +1,82 @@
 <div align="center">
 
-# ✦ CyberIMC ✦
+# 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮
 
-### 𝕿𝖍𝖊 𝕮𝖞𝖇𝖊𝖗 𝕬𝖓𝖌𝖊𝖑
+### The Cyber Angel
 
-*❦ Lux ex tenebris ❦*
+<p>
+  <i>Lux ex tenebris</i>
+</p>
 
-**Cybersec · Ethical Hacking · Digital Defense · Knowledge**
+<p>
+  <strong>Cybersecurity · Ethical Hacking · Digital Defense</strong>
+</p>
 
-`✦ Learn` · `Break` · `Build` · `Defend ✦`
+<p>
+  <code>Learn</code>
+  ·
+  <code>Break</code>
+  ·
+  <code>Build</code>
+  ·
+  <code>Defend</code>
+</p>
 
 </div>
 
 ---
 
-## ☩ About
+## 𝕬𝖇𝖔𝖚𝖙
 
-Cybersecurity research, ethical hacking, digital defense and security knowledge.
+CyberIMC is a personal cybersecurity space focused on **ethical hacking, digital defense, security research and technical knowledge**.
 
-> *From darkness, knowledge.*
+The goal is simple:
+
+> **Understand how systems break. Learn how to protect them.**
 
 ---
 
-## ⚔️ Focus
+## 𝕮𝖔𝖗𝖊 𝕱𝖔𝖈𝖚𝖘
 
-- 🔐 Cybersecurity
-- 🕷️ Ethical Hacking
-- 🛡️ Digital Defense
-- 🧠 Security Research
-- 💻 Offensive & Defensive Security
+<div align="center">
+
+| | Area | Description |
+|:---:|:---|:---|
+| 🔐 | **Cybersecurity** | Security concepts, systems and infrastructure |
+| ⚔️ | **Ethical Hacking** | Offensive security and penetration testing |
+| 🛡️ | **Digital Defense** | Detection, hardening and defensive techniques |
+| 🧠 | **Security Research** | Analysis, experimentation and technical research |
+| 💻 | **Development** | Tools, scripts and security automation |
+
+</div>
+
+---
+
+## 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+
+<div align="center">
+
+**Knowledge → Understanding → Practice → Defense**
+
+<br>
+
+<i>“Lux ex tenebris.”</i>
+
+</div>
 
 ---
 
 <div align="center">
 
-**✦ Learn · Break · Build · Defend ✦**
+### ☩ CyberIMC
+
+<sub>Cybersecurity · Research · Knowledge</sub>
+
+<br><br>
+
+<sub>© CyberIMC</sub>
+
+</div>
 
 *Lux ex tenebris*
 
