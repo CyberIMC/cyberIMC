@@ -2,13 +2,13 @@
 
 # ☩ 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮 ☩
 
-### 𝕿𝖍𝖊 𝕮𝖞𝖇𝖊𝖗 𝕬𝖓𝖌𝖊𝖑
+### 𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝖞 𝕽𝖊𝖘𝖊𝖆𝖗𝖈𝖍 · 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕯𝖊𝖋𝖊𝖓𝖘𝖊
 
-✦ ───────────────────────── ✦
+✦ · · ───────────────── · · ✦
 
 **Cybersecurity · Ethical Hacking · Digital Defense**
 
-✦ `Learn` · `Break` · `Build` · `Defend` ✦
+✧ `Learn` · `Break` · `Build` · `Defend` ✧
 
 </div>
 
@@ -18,15 +18,11 @@
 
 CyberIMC is a cybersecurity project focused on **ethical hacking, digital defense, security research and technical knowledge**.
 
-Built around one principle:
-
 > **Understand the system. Find the weakness. Build the defense.**
 
 ---
 
 ## ⚔ 𝕱𝖔𝖈𝖚𝖘
-
-<div align="center">
 
 | ✦ | Area | Focus |
 |:---:|:---|:---|
@@ -36,23 +32,47 @@ Built around one principle:
 | ☩ | **Security Research** | Analysis & experimentation |
 | ⚙ | **Development** | Security tools & automation |
 
+---
+
+## ✦ 𝕬𝖕𝖕𝖗𝖔𝖆𝖈𝖍
+
+<div align="center">
+
+**01** · `Learn`  
+*Build the fundamentals.*
+
+↓  
+
+**02** · `Understand`  
+*Study how systems behave.*
+
+↓  
+
+**03** · `Break`  
+*Identify weaknesses through ethical testing.*
+
+↓  
+
+**04** · `Build`  
+*Create tools, solutions and knowledge.*
+
+↓  
+
+**05** · `Defend`  
+*Turn understanding into protection.*
+
 </div>
 
 ---
 
-## ✦ 𝕻𝖗𝖎𝖓𝖈𝖎𝖕𝖑𝖊𝖘
+<div align="center">
 
-```text
-        Learn
-          │
-          ▼
-       Understand
-          │
-          ▼
-         Break
-          │
-          ▼
-         Build
-          │
-          ▼
-        Defend
+✦ · · ───────────────── · · ✦
+
+### ☩ 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮 ☩
+
+**Security · Research · Knowledge**
+
+`Learn` · `Break` · `Build` · `Defend`
+
+</div>
