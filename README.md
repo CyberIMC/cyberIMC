@@ -1,16 +1,30 @@
-## Hi there 👋
+╔══════════════════════════════════════╗
+𓆩 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮 𓆪
+╚══════════════════════════════════════╝
 
-<!--
-**CyberIMC/cyberIMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          ☩ 𓂀 ☩
+    𓆩 𝕿𝖍𝖊 𝕮𝖞𝖇𝖊𝖗 𝕬𝖓𝖌𝖊𝖑 𓆪
+          ☽ ✦ ☾
 
-Here are some ideas to get you started:
+   ╭─────── ⋆｡°✩°｡⋆ ───────╮
+      ⚜ 𝕮𝖞𝖇𝖊𝖗𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞
+      ⚔ 𝕰𝖙𝖍𝖎𝖈𝖆𝖑 𝕳𝖆𝖈𝖐𝖎𝖓𝖌
+      ☠ 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕯𝖊𝖋𝖊𝖓𝖘𝖊
+      ✟ 𝕶𝖓𝖔𝖜𝖑𝖊𝖉𝖌𝖊
+   ╰─────── ⋆｡°✩°｡⋆ ───────╯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+𓆩⚜𓆪 𝕬𝖑𝖎𝖘 𝖘𝖚𝖕𝖗𝖆 𝖉𝖎𝖌𝖎𝖙𝖆𝖑𝖊𝖒 𓆩⚜𓆪
+
+𝕴 𝖘𝖊𝖊𝖐 𝖛𝖚𝖑𝖓𝖊𝖗𝖆𝖇𝖎𝖑𝖎𝖙𝖎𝖊𝖘
+𝕴 𝖘𝖙𝖚𝖉𝖞 𝖙𝖍𝖊 𝖘𝖞𝖘𝖙𝖊𝖒
+𝕴 𝖇𝖚𝖎𝖑𝖉 𝖙𝖍𝖊 𝖉𝖊𝖋𝖊𝖓𝖘𝖊
+
+          𓂀
+    ☩ 𝕷𝖚𝖝 𝖊𝖝 𝖙𝖊𝖓𝖊𝖇𝖗𝖎𝖘 ☩
+          𓂀
+
+
+𓆩 𝕷𝖊𝖆𝖗𝖓 • 𝕭𝖗𝖊𝖆𝖐 • 𝕭𝖚𝖎𝖑𝖉 • 𝕯𝖊𝖋𝖊𝖓𝖉 𓆪
+
+          ⚜ ✦ ☩ ✦ ⚜
