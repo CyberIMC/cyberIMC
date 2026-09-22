@@ -1,23 +1,41 @@
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                         | CyberIMC |                                ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
+# ✦ CyberIMC ✦
 
-<pre>
-                ☩     ✦     ☩
-                  The Cyber Angel
-                      ˚ ✦ ˚
-</pre>
+### 𝕿𝖍𝖊 𝕮𝖞𝖇𝖊𝖗 𝕬𝖓𝖌𝖊𝖑
 
-⚜ 𝕮𝖞𝖇𝖊𝖗𝖘𝖊𝖈 · 𝕰𝖙𝖍𝖎𝖈𝖆𝖑 𝕳𝖆𝖈𝖐𝖎𝖓𝖌 × 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕯𝖊𝖋𝖊𝖓𝖘𝖊 · 𝕶𝖓𝖔𝖜𝖑𝖊𝖉𝖌𝖊 ×
+*❦ Lux ex tenebris ❦*
 
-<pre>
-                 ❦  Lux ex tenebris  ❦
+**Cybersec · Ethical Hacking · Digital Defense · Knowledge**
 
-             ✦ Learn  •  Break  •  Build  •  Defend ✦
-</pre>
+`✦ Learn` · `Break` · `Build` · `Defend ✦`
+
+</div>
+
+---
+
+## ☩ About
+
+Cybersecurity research, ethical hacking, digital defense and security knowledge.
+
+> *From darkness, knowledge.*
+
+---
+
+## ⚔️ Focus
+
+- 🔐 Cybersecurity
+- 🕷️ Ethical Hacking
+- 🛡️ Digital Defense
+- 🧠 Security Research
+- 💻 Offensive & Defensive Security
+
+---
+
+<div align="center">
+
+**✦ Learn · Break · Build · Defend ✦**
+
+*Lux ex tenebris*
 
 </div>
