@@ -1,83 +1,58 @@
 <div align="center">
 
-# 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮
+# ☩ 𝕮𝖞𝖇𝖊𝖗𝕴𝕸𝕮 ☩
 
-### The Cyber Angel
+### 𝕿𝖍𝖊 𝕮𝖞𝖇𝖊𝖗 𝕬𝖓𝖌𝖊𝖑
 
-<p>
-  <i>Lux ex tenebris</i>
-</p>
+✦ ───────────────────────── ✦
 
-<p>
-  <strong>Cybersecurity · Ethical Hacking · Digital Defense</strong>
-</p>
+**Cybersecurity · Ethical Hacking · Digital Defense**
 
-<p>
-  <code>Learn</code>
-  ·
-  <code>Break</code>
-  ·
-  <code>Build</code>
-  ·
-  <code>Defend</code>
-</p>
+✦ `Learn` · `Break` · `Build` · `Defend` ✦
 
 </div>
 
 ---
 
-## 𝕬𝖇𝖔𝖚𝖙
+## ☩ 𝕬𝖇𝖔𝖚𝖙
 
-CyberIMC is a personal cybersecurity space focused on **ethical hacking, digital defense, security research and technical knowledge**.
+CyberIMC is a cybersecurity project focused on **ethical hacking, digital defense, security research and technical knowledge**.
 
-The goal is simple:
+Built around one principle:
 
-> **Understand how systems break. Learn how to protect them.**
+> **Understand the system. Find the weakness. Build the defense.**
 
 ---
 
-## 𝕮𝖔𝖗𝖊 𝕱𝖔𝖈𝖚𝖘
+## ⚔ 𝕱𝖔𝖈𝖚𝖘
 
 <div align="center">
 
-| | Area | Description |
+| ✦ | Area | Focus |
 |:---:|:---|:---|
-| 🔐 | **Cybersecurity** | Security concepts, systems and infrastructure |
-| ⚔️ | **Ethical Hacking** | Offensive security and penetration testing |
-| 🛡️ | **Digital Defense** | Detection, hardening and defensive techniques |
-| 🧠 | **Security Research** | Analysis, experimentation and technical research |
-| 💻 | **Development** | Tools, scripts and security automation |
+| 🔐 | **Cybersecurity** | Systems, networks & infrastructure |
+| ⚔ | **Ethical Hacking** | Offensive security & penetration testing |
+| 🛡 | **Digital Defense** | Detection, hardening & defense |
+| ☩ | **Security Research** | Analysis & experimentation |
+| ⚙ | **Development** | Security tools & automation |
 
 </div>
 
 ---
 
-## 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+## ✦ 𝕻𝖗𝖎𝖓𝖈𝖎𝖕𝖑𝖊𝖘
 
-<div align="center">
-
-**Knowledge → Understanding → Practice → Defense**
-
-<br>
-
-<i>“Lux ex tenebris.”</i>
-
-</div>
-
----
-
-<div align="center">
-
-### ☩ CyberIMC
-
-<sub>Cybersecurity · Research · Knowledge</sub>
-
-<br><br>
-
-<sub>© CyberIMC</sub>
-
-</div>
-
-*Lux ex tenebris*
-
-</div>
+```text
+        Learn
+          │
+          ▼
+       Understand
+          │
+          ▼
+         Break
+          │
+          ▼
+         Build
+          │
+          ▼
+        Defend
